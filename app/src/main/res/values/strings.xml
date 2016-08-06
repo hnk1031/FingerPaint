@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FingerPaint</string>
+
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_save">保存</string>
+    <string name="menu_open">開く</string>
+    <string name="menu_color_change">色の変更</string>
+    <string name="menu_new">新規作成</string>
+
+</resources>
